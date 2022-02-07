@@ -1,7 +1,3 @@
-function getGif() {}
-
-function getWord() {}
-
 let catImage = document.getElementById("cat-img");
 
 let catButton = document.getElementById("btn-cat");
